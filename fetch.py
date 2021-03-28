@@ -4,7 +4,6 @@ import bs4
 import codecs
 import os
 import re
-import nltk
 import xlsxwriter
 import contextlib
 import subprocess
